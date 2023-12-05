@@ -94,17 +94,18 @@ img {
   justify-content: space-between;
   margin-bottom: 25px;
   font-size:20px;
-  background-color:#fff3ea;
+  background-color: #fff3ea;
 }
+
 .spistresci2 {
   justify-content: space-between;
   margin-bottom: 25px;
-  font-size:20px;
-  background-color:#fff3ea;
+  font-size: 20px;
+  background-color: #fff3ea;
 }
 
 .spistresci1 a {
-  color:#17865d;
+  color: #17865d;
   text-decoration: none;
   padding: 5px;
   margin-right: 10px;
@@ -112,7 +113,7 @@ img {
 }
 
 .spistresci2 a {
-  color:#17865d;
+  color: #17865d;
   text-decoration: none;
   padding: 5px;
   margin-right: 10px;
