@@ -59,12 +59,17 @@ img {
 	text-align: center;
 }
 
-.spistresci {
+.spistresci1 {
   align-items: center;
   padding-right:10px;
     display: flex;
 }
 
+.spistresci2 {
+	  align-items: center;
+  padding-right:10px;
+    display: flex;
+}
 
 .spistresci a:hover {
   color:#926448;
