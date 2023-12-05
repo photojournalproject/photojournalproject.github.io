@@ -3,6 +3,10 @@
 	color: #926448;
 }
 
+.mainpage {
+	position: center;
+}
+
 hr {
 	color:#fff3ea;
 	visibility: hidden;
