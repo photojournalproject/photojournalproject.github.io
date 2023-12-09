@@ -76,10 +76,11 @@ img {
 
 .spistresci1 {
   justify-content: space-between;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
   font-size:20px;
   background-color:#fff3ea;
 max-height: 50px;
+	margin-top: 10px;
 }
 
 .spistresci1 a {
@@ -109,7 +110,8 @@ max-height: 50px;
 
 .spistresci2 {
   justify-content: space-between;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
+	margin-top: 10px;
   font-size:20px;
   background-color:#fff3ea;
 	max-height: 50px;
