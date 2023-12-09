@@ -208,10 +208,3 @@ h4 {
 	 background-color:#fff3ea;
 	 max-height:500px;
 }
-
-sup {
-	position: absolute;
-    bottom: 0;
-    width: 100%;
-    max-height: 50px;
-}
