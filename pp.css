@@ -64,7 +64,7 @@ img {
 }
 
 
-.spistresci a:hover {
+.spistresci1 a:hover {
   color:#926448;
     display: flex;
 }
@@ -79,6 +79,7 @@ img {
   margin-bottom: 25px;
   font-size:20px;
   background-color:#fff3ea;
+max-height: 50px;
 }
 
 .spistresci1 a {
@@ -111,6 +112,7 @@ img {
   margin-bottom: 25px;
   font-size:20px;
   background-color:#fff3ea;
+	max-height: 50px;
 }
 
 .spistresci2 a {
