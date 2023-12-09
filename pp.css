@@ -206,3 +206,8 @@ h4 {
 	 max-height:500px;
 }
 
+sup {
+	position: absolute;
+    bottom: 0;
+    width: 100%;
+}
