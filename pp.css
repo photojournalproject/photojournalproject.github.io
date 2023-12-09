@@ -39,12 +39,14 @@ img {
 	padding-left:10px;
 	position: absolute;
 	 float: right;
+	left: 40%;
 }
 .text2 {
 	padding-right: 130px;
 	padding-left:10px;
 	 float: right;
 	position: absolute;
+	left: 40%
 }
 
 .text3 {
@@ -52,6 +54,7 @@ img {
 	padding-left:10px;
 	 float: right;
 	position: absolute;
+	left: 40%;
 }
 .mainpage {
 	text-align: center;
