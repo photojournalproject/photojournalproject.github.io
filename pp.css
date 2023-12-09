@@ -1,6 +1,7 @@
 .wstep {
 	text-align: center;
 	color: #926448;
+	max-height: 100px;
 }
 .mainpage {
 	position: center;
