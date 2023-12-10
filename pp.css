@@ -30,27 +30,24 @@ img {
 
 .text1 {
 	padding-right: 150px;
-	padding-left:10px;
+	padding-left:20px;
 	 float: right;
 	 position: absolute;
-	 left: 40%;
 	max-height: 500px;
 }
 .text2 {
 	padding-right: 150px;
-	padding-left:10px;
+	padding-left:20px;
 	 float: right;
 	 position: absolute;
-	 left: 40%;
 	max-height: 500px;
 }
 
 .text3 {
 	padding-right: 150px;
-	padding-left:10px;
+	padding-left:20px;
 	 float: right;
 	 position: absolute;
-	 left: 40%;
 	max-height: 500px;
 }
 .mainpage {
@@ -175,7 +172,7 @@ h4 {
 
 .picture1 {
 	padding-left: 150px;
-	padding-right:0px;
+	padding-right:20px;
 	 float: left;
 	 background-color:#fff3ea;
 	 max-height:500px;
@@ -207,7 +204,7 @@ h4 {
 
 .picture2 {
 	padding-left: 150px;
-	padding-right:0px;
+	padding-right:20px;
 	 float: left;
 	 background-color:#fff3ea;
 	 max-height:500px;
