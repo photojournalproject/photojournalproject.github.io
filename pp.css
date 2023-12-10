@@ -35,6 +35,7 @@ img {
 	 float: right;
 	 position: absolute;
 	 left: 40%;
+	max-height: 500px;
 }
 .text2 {
 	margin-top: 210px;
@@ -43,6 +44,7 @@ img {
 	 float: right;
 	 position: absolute;
 	 left: 40%;
+	max-height: 500px;
 }
 
 .text3 {
@@ -52,6 +54,7 @@ img {
 	 float: right;
 	 position: absolute;
 	 left: 40%;
+	max-height: 500px;
 }
 .mainpage {
 	text-align: center;
