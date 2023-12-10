@@ -34,7 +34,7 @@ img {
 	 float: right;
 	 position: absolute;
 	max-height: 500px;
-	left: 35%;
+	left: 50%;
 }
 .text2 {
 	padding-right: 150px;
@@ -42,7 +42,7 @@ img {
 	 float: right;
 	 position: absolute;
 	max-height: 500px;
-	left: 35%;
+	left: 50%;
 }
 
 .text3 {
@@ -51,7 +51,7 @@ img {
 	 float: right;
 	 position: absolute;
 	max-height: 500px;
-	left: 35%;
+	left: 50%;
 }
 .mainpage {
 	text-align: center;
