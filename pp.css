@@ -66,12 +66,12 @@ img {
 
 
 .spistresci1 a:hover {
-  color:#926448;
+	color:#17865d;
     display: flex;
 }
 
 .spistresci1 a:active {
-  color: #926448;
+	color:#17865d;
     display: flex;
 }
 
@@ -86,7 +86,7 @@ max-height: 60px;
 }
 
 .spistresci1 a {
-  color:#17865d;
+  color:#926448;
   text-decoration: none;
   padding: 5px;
   margin-right: 10px;
